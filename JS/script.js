@@ -1,3 +1,4 @@
+// RELOGIO EM TEMPO REAL
 const hourHand = document.querySelector('.hour-hand');
 const minuteHand = document.querySelector('.minute-hand');
 const secondHand = document.querySelector('.second-hand');
